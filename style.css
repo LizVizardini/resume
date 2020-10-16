@@ -1,0 +1,92 @@
+body {
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif');
+	background-size: 100%;
+}
+
+div {
+	background-image: url('https://www.publicdomainpictures.net/pictures/270000/velka/grunge-blue-green-background.jpg');
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#question {
+	font-size: 350%;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	text-decoration: underline;
+}
+
+#res {
+	text-align: center;
+	padding-top: 5%;
+	width: 35%;
+}
+
+li {
+	background-image: url(green.png); 
+	font-size: 180%;
+	color: white;
+	margin: 5%;
+}
+
+#translate {
+	text-decoration: underline;
+	color: #E0FFFF;
+	font-size: 200%;
+	font-style: italic;
+}
+
+#speciality {
+	font-size: 400%;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+#strelochki {
+	width: 50%;
+}
+
+p {
+	text-align: center;
+	font-size: 100%;
+	color: white;
+}
+
+#itEvents {
+	color: white;
+	text-align: center;
+	font-size: 300%;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#secret {
+	color: yellow;
+	font-size: 150%;
+}
+
+img {
+	text-align: center;
+}
+
+#more {
+	text-align: left;
+	color: black;
+	background-image: url(green.png); 
+	font-size: 180%;
+}
+
+#finish {
+	font-size: 300%;
+	text-align: right;
+	margin-right: 20%;
+}
+
+#finish2 {
+	font-size: 250%;
+	border-color: white;
+	text-align: right;
+	margin-right: 15%;
+}
